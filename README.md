@@ -19,3 +19,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+运行完之后  浏览器自动打开   登录界面效果如下图：
+![image](https://github.com/tzy13755126023/309-Admin/blob/master/img-folder/login.png)
