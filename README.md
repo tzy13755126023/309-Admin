@@ -25,4 +25,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 一切就绪以后  浏览器自动打开   登录界面效果如下图：
-![image](https://github.com/tzy13755126023/309-Admin/blob/master/img-folder/login.png)
+![image](https://github.com/tzy13755126023/309-Admin/blob/master/img-floder/login.png)
