@@ -42,7 +42,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 | |-- App.vue               // 页面入口文件  
 | |-- main.js               // 程序入口文件，加载各种公共组件  
 |-- static                  // 静态文件，比如一些图片，json数据等  
-| |-- data                  // 群聊分析得到的数据用于数据可视化  
 |-- .babelrc                // ES6语法编译配置  
 |-- .editorconfig           // 定义代码格式  
 |-- .gitignore              // git上传需要忽略的文件格式  
