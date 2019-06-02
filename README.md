@@ -20,4 +20,5 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-
+一切就绪以后，登录界面效果如图所示：
+![image](https://github.com/tzy13755126023/309-Admin/blob/master/img-floder/login.png)
