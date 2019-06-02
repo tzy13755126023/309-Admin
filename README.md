@@ -20,9 +20,4 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-运行此项目之前得先运行 (Node+Express的服务器项目),不然会报错，如图所示：
-![image](https://github.com/tzy13755126023/309-Admin/blob/master/img-folder/NoServer.png)
 
-
-一切就绪以后  浏览器自动打开   登录界面效果如下图：
-![image](https://github.com/tzy13755126023/309-Admin/blob/master/img-floder/login.png)
