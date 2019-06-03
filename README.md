@@ -51,3 +51,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 |-- package.json            // 项目基本信息  
 
 关于项目详细介绍 请参考以下博客，博客地址为：https://www.cnblogs.com/tzy1997/p/10963403.html
+
+展示一下登录页面吧：
+![Image](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
